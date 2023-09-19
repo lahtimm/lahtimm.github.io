@@ -68,7 +68,7 @@ createCollectable("database",600,400,20,0.5)
     createCannon("left", 640, 700); // cannon on left wall, 600px down, shooting once per second
     createCannon("right",700,100); // cannon on right wall, 600px down, shooting once per second
     createCannon("top",900,853); // cannon on top wall, 600px down, shooting once per second
-
+    createCannon("right",500,800)
 
 
     /////////////////////////////////////////////////
