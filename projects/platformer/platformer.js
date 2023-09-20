@@ -66,9 +66,10 @@ createCollectable("database",600,400,20,0.5)
     // example usage: createCannon(side, position, delay, width, height)
 
     createCannon("left", 640, 700); // cannon on left wall, 600px down, shooting once per second
-    createCannon("right",700,100); // cannon on right wall, 600px down, shooting once per second
-    createCannon("top",900,853); // cannon on top wall, 600px down, shooting once per second
-    createCannon("right",500,800)
+    createCannon("right",800,800); // cannon on right wall, 600px down, shooting once per second
+    createCannon("top",980,890) 
+    createCannon("top",700,890)
+    createCannon("left",800,300)
 
 
     /////////////////////////////////////////////////
